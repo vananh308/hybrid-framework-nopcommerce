@@ -5,24 +5,36 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.AfterClass;
 
 public class User_01_Register_Login {
-  @BeforeClass
-  public void beforeClass() {
-	  
-	  
-  }
-  
-  @Test
-  public void TC_01() {
-	  
-  }
+	// Toàn cục
+	String homePageUrl = "";
 
-  @Test
-  public void TC_02() {
-	  
-  }
-  
-  @AfterClass
-  public void afterClass() {
-  }
+	public void beforeClass() {
+
+	}
+
+	@Test
+	public void TC_01() {
+		// Cục bộ: Sử dụng trong phạm vi của testcase/ hàm
+		String homePageUrl = "";
+
+		System.out.println(homePageUrl);
+		
+		// Block code: khối lệnh
+		if(3<5) {
+			// Cục bộ
+			String homePagetTitle = "";
+			
+			System.out.println(homePagetTitle);
+		}
+	}
+
+	@Test
+	public void TC_02() {
+
+	}
+
+	@AfterClass
+	public void afterClass() {
+	}
 
 }
