@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suite name="NopCommerce">
 
+	<listeners>
+		<listener class-name="commons.MethodListener"></listener>
+		<listener class-name="org.uncommons.reportng.HTMLReporter"/>
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+		<!--<listener class-name="reportConfig.ReportNGListener"/> -->
+		<listener class-name="reportConfig.ExtentReportListenerV2"/>
+		
+	</listeners>
+	
   <test name="Run on Firefox">
+  	<parameter name="browser" value="firefox"/>
     <classes>
-      <class name="com.nopcommerce.user.User_01_Register_Login"/>
+      <class name="com.nopcommerce.user.Level_15_ExtentV2_Screenshot"/>
     </classes>
-  </test> 
+  </test>
   
 </suite> 
