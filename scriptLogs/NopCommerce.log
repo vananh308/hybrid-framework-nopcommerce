@@ -136,3 +136,160 @@
 [2023-03-19 09:41:25,265] Login - Step 03: Enter to Password textbox with value is '123456'
 [2023-03-19 09:41:25,323] Login - Step 04: Click to Login button
 [2023-03-19 09:41:25,968] Login - Step 05: Verify 'My Account' link is displayed
+[2023-04-02 09:33:52,112] Login - Step 01: Navigate to Login page
+[2023-04-02 09:33:53,133] Login - Step 02: Enter to Email textbox with value is 'afc9362@mail.vn'
+[2023-04-02 09:33:53,222] Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-04-02 09:33:53,287] Login - Step 04: Click to Login button
+[2023-04-04 22:41:09,459] Pre-Condition - Step 01: Navigate to Login page
+[2023-04-04 22:41:10,509] Pre-Condition - Step 02: Set cookie and reload page
+[2023-04-04 22:41:14,937] Pre-Condition - Step 03: Verify 'My Account' link is displayed
+[2023-04-04 22:41:14,999]  -------------------------- PASSED -------------------------- 
+[2023-04-07 23:56:06,699] Pre-Condition - Step 01: Nagivate to 'Register' page'
+[2023-04-07 23:56:08,430] Pre-Condition - Step 02: Enter to Firstname textbox with value is 'Automation'
+[2023-04-07 23:56:08,536] Pre-Condition - Step 03: Enter to Lastname textbox with value is 'FC'
+[2023-04-07 23:56:08,649] Pre-Condition - Step 04: Enter to Email textbox with value is 'afc4822@mail.vn'
+[2023-04-07 23:56:08,717] Pre-Condition - Step 05: Enter to Password textbox with value is '123456'
+[2023-04-07 23:56:08,781] Pre-Condition - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2023-04-07 23:56:08,837] Pre-Condition - Step 07: Click to 'Register' button
+[2023-04-07 23:56:11,533] Pre-Condition - Step 08: Verify Register success message is displayed
+[2023-04-08 11:19:46,388] Pre-Condition - Step 01: Nagivate to 'Register' page'
+[2023-04-08 11:19:47,024] Pre-Condition - Step 02: Enter to Firstname textbox with value is 'Automation'
+[2023-04-08 11:19:47,116] Pre-Condition - Step 03: Enter to Lastname textbox with value is 'FC'
+[2023-04-08 11:19:47,219] Pre-Condition - Step 04: Enter to Email textbox with value is 'afc4822@mail.vn'
+[2023-04-08 11:19:47,287] Pre-Condition - Step 05: Enter to Password textbox with value is '123456'
+[2023-04-08 11:19:47,346] Pre-Condition - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2023-04-08 11:19:47,403] Pre-Condition - Step 07: Click to 'Register' button
+[2023-04-08 11:19:48,563] Pre-Condition - Step 08: Verify Register success message is displayed
+[2023-04-22 11:23:30,931] Register - Step 01: Nagivate to 'Register' page'
+[2023-04-22 11:23:41,039] Register - Step 02: Enter to Firstname textbox with value is 'Automation'
+[2023-04-22 11:24:11,638] Login - Step 01: Navigate to Login page
+[2023-04-22 11:24:15,542] Login - Step 02: Enter to Email textbox with value is 'afc7013@mail.vn'
+[2023-04-22 11:24:15,685] Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-04-22 11:24:15,773] Login - Step 04: Click to Login button
+[2023-04-22 11:24:17,507] Login - Step 05: Verify 'My Account' link is displayed
+[2023-04-22 15:10:14,495] Register - Step 01: Nagivate to 'Register' page'
+[2023-04-22 15:10:19,901] Register - Step 02: Enter to Firstname textbox with value is 'Automation'
+[2023-04-22 15:10:52,459] Login - Step 01: Navigate to Login page
+[2023-04-22 15:10:54,809] Login - Step 02: Enter to Email textbox with value is 'afc2847@mail.vn'
+[2023-04-22 15:10:54,921] Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-04-22 15:10:55,021] Login - Step 04: Click to Login button
+[2023-04-22 15:11:01,458] Login - Step 05: Verify 'My Account' link is displayed
+[2023-04-22 15:16:54,681] Register - Step 01: Nagivate to 'Register' page'
+[2023-04-22 15:19:45,284] Register - Step 02: Enter to Firstname textbox with value is 'Automation'
+[2023-04-22 15:20:15,979] Login - Step 01: Navigate to Login page
+[2023-04-22 15:20:58,199] Login - Step 02: Enter to Email textbox with value is 'afc8149@mail.vn'
+[2023-04-22 15:20:58,284] Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-04-22 15:20:58,363] Login - Step 04: Click to Login button
+[2023-04-22 15:21:04,525] Login - Step 05: Verify 'My Account' link is displayed
+[2023-04-22 15:25:12,947] Register - Step 01: Nagivate to 'Register' page'
+[2023-04-22 15:25:14,368] Register - Step 02: Enter to Firstname textbox with value is 'Automation'
+[2023-04-22 15:25:44,869] Login - Step 01: Navigate to Login page
+[2023-04-22 15:25:46,465] Login - Step 02: Enter to Email textbox with value is 'afc3329@mail.vn'
+[2023-04-22 15:25:46,545] Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-04-22 15:25:46,619] Login - Step 04: Click to Login button
+[2023-04-22 15:25:48,187] Login - Step 05: Verify 'My Account' link is displayed
+[2023-04-22 15:38:34,718] Register - Step 01: Nagivate to 'Register' page'
+[2023-04-22 15:38:40,116] Register - Step 02: Enter to Firstname textbox with value is 'Automation'
+[2023-04-22 15:39:33,786] Login - Step 01: Navigate to Login page
+[2023-04-22 15:47:54,753] Pre-Condition - Step 01: Nagivate to 'Register' page'
+[2023-04-22 15:47:59,494] OS name = mac os x
+[2023-04-22 15:47:59,496] Driver instance name = firefoxdriver: firefox on mac (6fd33dc0-ad84-4a03-8933-578680e35314)
+[2023-04-22 15:47:59,502] Tried to run command without establishing a connection
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'Vanh-Vanh.local', ip: 'fe80:0:0:0:1c8c:e88d:afe3:3745%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.1', java.version: '11.0.15'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 111.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230321111920, moz:geckodriverVersion: 0.32.0, moz:headless: false, moz:platformVersion: 21.2.0, moz:processID: 74386, moz:profile: /var/folders/pv/lw6pkm_d459..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6fd33dc0-ad84-4a03-8933-578680e35314
+[2023-04-22 15:48:54,517] Pre-Condition - Step 01: Nagivate to 'Register' page'
+[2023-04-22 15:48:55,689] Pre-Condition - Step 02: Enter to Firstname textbox with value is 'Automation'
+[2023-04-22 15:48:55,790] Pre-Condition - Step 03: Enter to Lastname textbox with value is 'FC'
+[2023-04-22 15:48:55,900] Pre-Condition - Step 04: Enter to Email textbox with value is 'afc6684@mail.vn'
+[2023-04-22 15:48:55,969] Pre-Condition - Step 05: Enter to Password textbox with value is '123456'
+[2023-04-22 15:48:56,018] Pre-Condition - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2023-04-22 15:48:56,074] Pre-Condition - Step 07: Click to 'Register' button
+[2023-04-22 15:48:57,490] Pre-Condition - Step 08: Verify Register success message is displayed
+[2023-04-22 15:48:57,982] OS name = mac os x
+[2023-04-22 15:48:57,983] Driver instance name = firefoxdriver: firefox on mac (230aa22e-fb43-4153-90db-1899dc36b3cf)
+[2023-04-22 15:52:41,025] Register - Step 01: Nagivate to 'Register' page'
+[2023-04-22 15:52:42,397] Register - Step 02: Enter to Firstname textbox with value is 'Automation'
+[2023-04-22 15:52:42,493] Register - Step 03: Enter to Lastname textbox with value is 'FC'
+[2023-04-22 15:52:42,549] Register - Step 04: Enter to Email textbox with value is 'afc415@mail.vn'
+[2023-04-22 15:52:42,605] Register - Step 05: Enter to Password textbox with value is '123456'
+[2023-04-22 15:52:42,657] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2023-04-22 15:52:42,706] Register - Step 07: Click to 'Register' button
+[2023-04-22 15:52:43,854] Register - Step 08: Verify Register success message is displayed
+[2023-04-22 15:52:44,069] Login - Step 01: Navigate to Login page
+[2023-04-22 16:04:35,271] Pre-Condition - Step 01: Nagivate to 'Register' page'
+[2023-04-22 16:04:36,851] Pre-Condition - Step 02: Enter to Firstname textbox with value is 'Automation'
+[2023-04-22 16:04:36,942] Pre-Condition - Step 03: Enter to Lastname textbox with value is 'FC'
+[2023-04-22 16:04:37,007] Pre-Condition - Step 04: Enter to Email textbox with value is 'afc6345@mail.vn'
+[2023-04-22 16:04:37,102] Pre-Condition - Step 05: Enter to Password textbox with value is '123456'
+[2023-04-22 16:04:37,158] Pre-Condition - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2023-04-22 16:04:37,210] Pre-Condition - Step 07: Click to 'Register' button
+[2023-04-22 16:04:38,182] Pre-Condition - Step 08: Verify Register success message is displayed
+[2023-04-22 16:04:38,611] OS name = mac os x
+[2023-04-22 16:04:38,612] Driver instance name = firefoxdriver: firefox on mac (fc332015-81a9-4e80-b336-3fea751e9998)
+[2023-04-22 16:05:27,942] Register - Step 01: Nagivate to 'Register' page'
+[2023-04-22 16:05:29,397] Register - Step 02: Enter to Firstname textbox with value is 'Automation'
+[2023-04-22 16:05:29,501] Register - Step 03: Enter to Lastname textbox with value is 'FC'
+[2023-04-22 16:05:29,587] Register - Step 04: Enter to Email textbox with value is 'afc2158@mail.vn'
+[2023-04-22 16:05:29,652] Register - Step 05: Enter to Password textbox with value is '123456'
+[2023-04-22 16:05:29,703] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2023-04-22 16:05:29,754] Register - Step 07: Click to 'Register' button
+[2023-04-22 16:05:30,709] Register - Step 08: Verify Register success message is displayed
+[2023-04-22 16:05:30,894] Login - Step 01: Navigate to Login page
+[2023-04-22 16:05:31,412] Login - Step 02: Enter to Email textbox with value is 'afc2158@mail.vn'
+[2023-04-22 16:05:31,494] Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-04-22 16:05:31,547] Login - Step 04: Click to Login button
+[2023-04-22 16:05:48,091] Login - Step 05: Verify 'My Account' link is displayed
+[2023-04-22 16:10:05,325] Register - Step 01: Nagivate to 'Register' page'
+[2023-04-22 16:10:06,748] Register - Step 02: Enter to Firstname textbox with value is 'Automation'
+[2023-04-22 16:10:06,894] Register - Step 03: Enter to Lastname textbox with value is 'FC'
+[2023-04-22 16:10:06,957] Register - Step 04: Enter to Email textbox with value is 'afc9219@mail.vn'
+[2023-04-22 16:10:07,015] Register - Step 05: Enter to Password textbox with value is '123456'
+[2023-04-22 16:10:07,071] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2023-04-22 16:10:07,119] Register - Step 07: Click to 'Register' button
+[2023-04-22 16:10:08,132] Register - Step 08: Verify Register success message is displayed
+[2023-04-22 16:10:08,309] Login - Step 01: Navigate to Login page
+[2023-04-22 16:10:08,877] Login - Step 02: Enter to Email textbox with value is 'afc9219@mail.vn'
+[2023-04-22 16:10:08,960] Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-04-22 16:10:09,018] Login - Step 04: Click to Login button
+[2023-04-23 12:24:30,508] Register - Step 01: Nagivate to 'Register' page'
+[2023-04-23 12:25:06,081] Login - Step 01: Navigate to Login page
+[2023-04-23 12:25:11,385] Login - Step 02: Enter to Email textbox with value is 'afc285@mail.vn'
+[2023-04-23 12:25:24,814] Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-04-23 12:25:24,907] Login - Step 04: Click to Login button
+[2023-04-23 12:25:25,296] Login - Step 05: Verify 'My Account' link is displayed
+[2023-04-23 12:26:17,844] Register - Step 01: Nagivate to 'Register' page'
+[2023-04-23 12:26:19,519] Register - Step 02: Enter to Firstname textbox with value is 'Automation'
+[2023-04-23 12:26:19,636] Register - Step 03: Enter to Lastname textbox with value is 'FC'
+[2023-04-23 12:26:20,561] Register - Step 04: Enter to Email textbox with value is 'afc2549@mail.vn'
+[2023-04-23 12:26:20,671] Register - Step 05: Enter to Password textbox with value is '123456'
+[2023-04-23 12:26:20,727] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2023-04-23 12:26:30,778] Register - Step 07: Click to 'Register' button
+[2023-04-23 12:26:32,519] Register - Step 08: Verify Register success message is displayed
+[2023-04-23 12:26:32,743] Login - Step 01: Navigate to Login page
+[2023-04-23 12:26:33,486] Login - Step 02: Enter to Email textbox with value is 'afc2549@mail.vn'
+[2023-04-23 12:26:33,536] Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-04-23 12:26:33,581] Login - Step 04: Click to Login button
+[2023-04-23 12:26:34,759] Login - Step 05: Verify 'My Account' link is displayed
+[2023-04-23 12:26:34,796] Login - Step 06: Navigate to 'My Account' page
+[2023-04-23 12:26:35,487] Login - Step 07: Verify 'Customer Infor' page is displayed
+[2023-04-23 16:44:59,765] Register - Step 01: Nagivate to 'Register' page'
+[2023-04-23 16:45:00,657] Register - Step 02: Enter to Firstname textbox with value is 'Automation'
+[2023-04-23 16:45:00,735] Register - Step 03: Enter to Lastname textbox with value is 'FC'
+[2023-04-23 16:45:01,650] Register - Step 04: Enter to Email textbox with value is 'afc9668@mail.vn'
+[2023-04-23 16:45:01,755] Register - Step 05: Enter to Password textbox with value is '123456'
+[2023-04-23 16:45:01,815] Register - Step 06: Enter to Confirm Password textbox with value is '123456'
+[2023-04-23 16:45:01,857] Register - Step 07: Click to 'Register' button
+[2023-04-23 16:45:03,080] Register - Step 08: Verify Register success message is displayed
+[2023-04-23 16:45:03,296] Login - Step 01: Navigate to Login page
+[2023-04-23 16:45:03,675] Login - Step 02: Enter to Email textbox with value is 'afc9668@mail.vn'
+[2023-04-23 16:45:03,754] Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-04-23 16:45:03,820] Login - Step 04: Click to Login button
+[2023-04-23 16:45:04,487] Login - Step 05: Verify 'My Account' link is displayed
+[2023-04-23 16:45:04,580] My Account - Step 01: Navigate to 'My Account' page
+[2023-04-23 16:45:05,046] My Account - Step 02: Verify 'Customer Infor' page is displayed
+[2023-04-23 16:45:05,235] My Account - Step 03: Verify 'First Name' value is correctly
+[2023-04-23 16:45:05,359] My Account - Step 04: Verify 'Last Name' value is correctly
+[2023-04-23 16:45:05,397] My Account - Step 05: Verify 'Email' value is correctly
